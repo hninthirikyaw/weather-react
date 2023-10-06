@@ -2,6 +2,7 @@ import React from "react";
 import "../index.css";
 
 const Navbar = () => {
+ 
   return (
     <div>
       <ul className=" d-flex gap-3 ps-0">

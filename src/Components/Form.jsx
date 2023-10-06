@@ -38,7 +38,7 @@ const Form = () => {
 
   return (
     <div>
-      <div >
+      <div>
         <form onSubmit={submitHandler} className="d-flex gap-1 w-75 mb-4">
           <input
             type="search"
