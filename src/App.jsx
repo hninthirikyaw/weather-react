@@ -5,7 +5,6 @@ import Form from "./Components/Form";
 import Navbar from "./Components/Navbar";
 
 const App = () => {
-
   return (
     <div className="m-5">
       <div className="border rounded p-3 w-75">
